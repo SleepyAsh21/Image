@@ -1,0 +1,5 @@
+{
+  "name": "LuminaCanvas",
+  "description": "A high-end, flashy text-to-image generator using Gemini's latest image models with a sleek, cinematic UI.",
+  "requestFramePermissions": []
+}
